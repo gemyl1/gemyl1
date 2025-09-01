@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I’m Gemy
 
-<!--
-**gemyl1/gemyl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biotechnologist, Bioinformatician, Programmer, Entrepreneur
 
-Here are some ideas to get you started:
+🧪 Completed a Diploma in Biochemical Analysis & planning to pursue an MSc in Biotechnology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interested in clinical research, data science, and sustainable entrepreneurship
+
+💡 Open to collaborations in biotech, bioinformatics, and tech projects
+
+📫 Reach me on :
+LinkedIn: https://www.linkedin.com/in/ahmedgbasuony/
+Gmail: ahmedgamaljr1@gmail.com
